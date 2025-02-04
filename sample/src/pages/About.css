@@ -1,0 +1,30 @@
+.about {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.about img {
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.about ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about li {
+  display: inline;
+  margin: 0 10px;
+  font-size: 1.2em;
+}
+
+.about h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}

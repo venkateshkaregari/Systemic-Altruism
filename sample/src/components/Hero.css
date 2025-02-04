@@ -1,0 +1,31 @@
+.hero {
+  background-image: url('https://via.placeholder.com/1200x600');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: rgb(16, 14, 14);
+}
+
+.hero h2 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.5em;
+  margin-bottom: 40px;
+}
+
+.hero button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.hero button:hover {
+  background-color: #e55340;
+}
